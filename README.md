@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kyaw Min Khant</h1>
 <h3 align="center">A passionate FullStack developer from Myanmar</h3>
-- 👨‍💻 I am currently work at Pandorea Techanology
 
 - 👨‍💻 All of my projects are available at [https://kyawminkhant.vercel.app/](https://kyawminkhant.vercel.app/)
 
