@@ -16,7 +16,7 @@
 
 <a href="https://linkedin.com/in/kyawminkhant" target="_blank" rel="noreferrer"><img alt="linkedin" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:kyawminkhant8237@gmail.com" target="_blank" rel="noreferrer"><img alt="gmail" title="Contact Me" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/IndieCoderMM/"><img alt="leetcode" title="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+
 <div>
 
 <h3 align="left">Languages and Tools:</h3>
