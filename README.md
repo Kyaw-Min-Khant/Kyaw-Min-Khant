@@ -1,12 +1,11 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋,I'm Kyaw Min Khant</h1>
-<h3 align="center">A passionate FullStack developer from Myanmar</h3>
+<h3 align="center">A passionate and self-taught FullStack developer from Myanmar</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Kyaw-Min-Khant&color=1D24CA&style=for-the-badge&label=Profile%20views" alt="Kyaw-Min-Khant" />
 <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=yellow&color=orange&label=Streak&style=for-the-badge&query=%24.currentStreak.length&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DKyaw-Min-Khant%26type%3Djson" alt="Kyaw-Min-Khant" />
 </p>
 
--  I'm a Passionate and self-taught programmer from Myanmar.
 -  I completed **Frontend development program** at [MMS IT](https://mms-it.com).
 
 
@@ -43,7 +42,6 @@
 
 <h3 align="left">Stars</h3>
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kyaw-Min-Khant&theme=dark" alt="Kyaw-Min-Khant" /></p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/Kyaw-Min-Khant">
