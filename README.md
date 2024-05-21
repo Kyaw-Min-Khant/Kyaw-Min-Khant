@@ -1,19 +1,23 @@
 <h3>Hi 👋,I'm Kyaw Min Khant</h3>
 
-<p> and a passionate and self-taught software developer from Myanmar.</p>
+<p> and a passionate and self-taught software developer from Myanmar 🇲🇲</p>
 
 -  🎓 I completed **Frontend development program** at [MMS IT](https://mms-it.com).
--  ⚡️  As a full-stack developer at Pandora Technology, I contributed to:
-  
-      -  Mobile Development: Developed and maintained cross-platform mobile applications using React Native.
-  
-      -  Backend Development: Designed and implemented RESTful APIs and managed server-side logic using Node.js and Express.
-  
-      -  Frontend Development: Created and optimized user interfaces using React, ensuring a seamless user experience.
-        
+
 -  🌱 I'm also the co-founder of [FOD](https://www.facebook.com/profile.php?id=100093202939795).
 
+-  ⚡️  As a full-stack developer at Pandora Technology, I contributed to:
+  
+      -  <p>Mobile Development: Developed and maintained cross-platform mobile applications using React Native.</p>
+  
+      -  <p>Backend Development: Designed and implemented RESTful APIs and managed server-side logic using Node.js and Express.</p>
+        
+      -  <p>Frontend Development: Created and optimized user interfaces using React, ensuring a seamless user experience.</p>
+
+-  😄 Fun fact: I'm a An omnivert.
+
 If you are interested in more details, check out [my website](https://kyawminkhant.vercel.app/) !
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Kyaw-Min-Khant&color=1D24CA&style=for-the-badge&label=Profile%20views" alt="Kyaw-Min-Khant" />
@@ -25,6 +29,7 @@ If you are interested in more details, check out [my website](https://kyawminkha
 <a href="https://www.linkedin.com/in/kyaw-min-khant-8a281a2a1/" target="_blank" rel="noreferrer"><img alt="linkedin" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:kyawminkhant8237@gmail.com" target="_blank" rel="noreferrer"><img alt="gmail" title="Contact Me" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <div>
+
   
 ## 💻 Languages & Tools
 
