@@ -1,4 +1,7 @@
-<h3>Hi 👋,I'm Kyaw Min Khant</h3>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Kyaw-Min-Khant&color=1D24CA&style=for-the-badge&label=Profile%20views" alt="Kyaw-Min-Khant" />
+</p>
+<h3>Hi 👋,I'm Kyaw Min Khant </h3>
 
 <p> and a passionate and self-taught software developer from Myanmar 🇲🇲</p>
 
@@ -14,14 +17,9 @@
         
       -  <p>Frontend Development: Created and optimized user interfaces using React, ensuring a seamless user experience.</p>
 
--  😄 Fun fact: I'm a An omnivert.
+-  😄 Fun fact: I'm a an omnivert.
 
-If you are interested in more details, check out [my website](https://kyawminkhant.vercel.app/) !
-
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kyaw-Min-Khant&color=1D24CA&style=for-the-badge&label=Profile%20views" alt="Kyaw-Min-Khant" />
-</p>
+ If you are interested in more details, check out [my website](https://kyawminkhant.vercel.app/) !
 
 
 ## 📌 Socials
@@ -29,7 +27,6 @@ If you are interested in more details, check out [my website](https://kyawminkha
 <a href="https://www.linkedin.com/in/kyaw-min-khant-8a281a2a1/" target="_blank" rel="noreferrer"><img alt="linkedin" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:kyawminkhant8237@gmail.com" target="_blank" rel="noreferrer"><img alt="gmail" title="Contact Me" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <div>
-
   
 ## 💻 Languages & Tools
 
