@@ -9,7 +9,7 @@
 
 -  🌱 I'm also the co-founder of [FOD](https://www.facebook.com/profile.php?id=100093202939795).
 
--  ⚡️  As a full-stack developer at Pandora Technology, I contributed to:
+-  ⚡️  As a full-stack developer , I contributed to:
   
       -  <p>Mobile Development: Developed and maintained cross-platform mobile applications using React Native.</p>
   
