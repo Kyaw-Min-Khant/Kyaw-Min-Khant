@@ -1,6 +1,6 @@
-<img src="https://i.pinimg.com/736x/3d/8d/5e/3d8d5e34bdadd7042fda44b99940bd28.jpg" alt="Kyaw Min Khant's banner" style="width:100%;" />
+<img src="https://i.pinimg.com/736x/2f/f6/57/2ff6573ae61ee84e3093ca84497162e8.jpg" alt="Kyaw Min Khant's banner"  style="width:100%;height:200px;" />
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Kyaw-Min-Khant&color=1D24CA&style=for-the-badge&label=Profile%20views" alt="Kyaw-Min-Khant" />
+  <img src="https://komarev.com/ghpvc/?username=Kyaw-Min-Khant&color=1D24CA&style=for-the-badge&label=Profile%20views"  alt="Kyaw-Min-Khant" />
 </p>
 <h3>Hi 👋,I'm Kyaw Min Khant </h3>
 <p> and a passionate and self-taught software developer from Myanmar 🇲🇲</p>
