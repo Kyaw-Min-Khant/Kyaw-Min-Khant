@@ -1,4 +1,3 @@
-<img src="https://i.pinimg.com/736x/2f/f6/57/2ff6573ae61ee84e3093ca84497162e8.jpg" alt="Kyaw Min Khant's banner"  style="width:100%;height:200px;" />
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Kyaw-Min-Khant&color=1D24CA&style=for-the-badge&label=Profile%20views"  alt="Kyaw-Min-Khant" />
 </p>
