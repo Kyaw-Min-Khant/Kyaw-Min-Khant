@@ -1,23 +1,29 @@
+<img src="https://i.pinimg.com/736x/3d/8d/5e/3d8d5e34bdadd7042fda44b99940bd28.jpg" alt="Kyaw Min Khant's banner" style="width:100%;" />
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Kyaw-Min-Khant&color=1D24CA&style=for-the-badge&label=Profile%20views" alt="Kyaw-Min-Khant" />
 </p>
 <h3>Hi 👋,I'm Kyaw Min Khant </h3>
-
 <p> and a passionate and self-taught software developer from Myanmar 🇲🇲</p>
 
--  🎓 I completed **Frontend development program** at [MMS IT](https://mms-it.com).
+-  🌱 I’m currently working at **Global Connect Asia** as a Mobile Developer.
+  
+- 💼 Previously worked on full stack applications using React, React Native, Expo, Express.js, and Nest.js.
+  
+- 🛠️ Tech I enjoy working with:
+  - **Frontend**: React, React Native, Flutter, Next.js, TailwindCSS, Scss
+  - **Backend**: Node.js, Express, NestJS, MySQL, MongoDB, Sequelize
+  - **Dev Tools**: Docker, Git, Realm, Zustand, TanStack Query, React Redux, Firebase
+ 
+- 🚀 Experienced in publishing apps to **Google Play Store** and **Apple App Store**
 
+-  📚 I'm always learning new things and improving my craft — currently exploring design systems, and diving into a new mobile programming language to expand my skill set.
+
+-  🎓 I completed **Frontend development program** at [MMS IT](https://mms-it.com).
+  
 -  🌱 I'm also the co-founder of [FOD](https://www.facebook.com/profile.php?id=100093202939795).
 
--  ⚡️  As a full-stack developer , I contributed to:
-  
-      -  <p>Mobile Development: Developed and maintained cross-platform mobile applications using React Native.</p>
-  
-      -  <p>Backend Development: Designed and implemented RESTful APIs and managed server-side logic using Node.js and Express.</p>
-        
-      -  <p>Frontend Development: Created and optimized user interfaces using React, ensuring a seamless user experience.</p>
-
 -  😄 Fun fact: I'm a an omnivert.
+
 
  If you are interested in more details, check out [my website](https://kyawminkhant.vercel.app/) !
 
@@ -36,6 +42,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
@@ -63,6 +71,7 @@
 </div>
 
 ###
+
 
 <br clear="both">
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kyaw-Min-Khant&theme=dark" alt="Kyaw-Min-Khant" /></p>
